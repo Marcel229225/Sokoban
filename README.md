@@ -1,2 +1,1 @@
-# Sokoban
-This project is one of the projects of my first year within Epitech and consists of implementing the Sokoban game in C
+Clone the repository and after that tap "make" at the racine of the repository and after that tap "./my_sokoban" to play the game
